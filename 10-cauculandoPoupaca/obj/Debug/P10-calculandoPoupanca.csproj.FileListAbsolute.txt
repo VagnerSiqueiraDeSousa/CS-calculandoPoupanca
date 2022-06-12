@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\10-cauculandoPoupaca\bin\Debug\10-cauculandoPoupaca.exe.config
+D:\AulasCSharp\aprendendoCSharp\10-cauculandoPoupaca\bin\Debug\10-cauculandoPoupaca.exe
+D:\AulasCSharp\aprendendoCSharp\10-cauculandoPoupaca\bin\Debug\10-cauculandoPoupaca.pdb
+D:\AulasCSharp\aprendendoCSharp\10-cauculandoPoupaca\obj\Debug\P10-calculandoPoupanca.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\10-cauculandoPoupaca\obj\Debug\P10-calculandoPoupanca.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\10-cauculandoPoupaca\obj\Debug\P10-calculandoPoupanca.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\10-cauculandoPoupaca\obj\Debug\10-cauculandoPoupaca.exe
+D:\AulasCSharp\aprendendoCSharp\10-cauculandoPoupaca\obj\Debug\10-cauculandoPoupaca.pdb
