@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\ConversoeDeTiposNumericos\obj\Debug\ConversoeDeTiposNumericos.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\ConversoeDeTiposNumericos\obj\Debug\ConversoeDeTiposNumericos.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\ConversoeDeTiposNumericos\obj\Debug\ConversoeDeTiposNumericos.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\ConversoeDeTiposNumericos\bin\Debug\ConversoeDeTiposNumericos.exe.config
+D:\AulasCSharp\aprendendoCSharp\ConversoeDeTiposNumericos\bin\Debug\ConversoeDeTiposNumericos.exe
+D:\AulasCSharp\aprendendoCSharp\ConversoeDeTiposNumericos\bin\Debug\ConversoeDeTiposNumericos.pdb
+D:\AulasCSharp\aprendendoCSharp\ConversoeDeTiposNumericos\obj\Debug\ConversoeDeTiposNumericos.exe
+D:\AulasCSharp\aprendendoCSharp\ConversoeDeTiposNumericos\obj\Debug\ConversoeDeTiposNumericos.pdb
